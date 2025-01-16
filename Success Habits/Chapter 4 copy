@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<h2>Chapter 4</h2>
+
+<body>
+
+    <ul>
+        <li>Everything you read or hear, shouldn’t be accepted to you as fact.</li>
+        <li>Shortcuts make you crooked.</li>
+    </ul>
+
+    <br>
+    <br>
+
+    <a href="Chapter 5">Next Chapter</a>
+    <br>
+    <a href="Success Habits Home Page">Back to Home Page</a>
+
+    <br>
+    
+</body>
+</html>
