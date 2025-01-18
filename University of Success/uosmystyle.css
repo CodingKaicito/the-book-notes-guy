@@ -1,0 +1,15 @@
+* { 
+    background-color: #f4f4f9;
+    color: #333333;
+    box-sizing: border-box;
+    scroll-padding-top: 100px; /* Added here */
+}
+
+body {
+    padding-top: 60px; /* Adjust to match your navbar's height */
+}
+
+a:link {
+color: #333333;
+text-decoration: underline;
+}
