@@ -3,6 +3,8 @@
     color: #333333;
     box-sizing: border-box;
     scroll-padding-top: 100px; /* Added here */
+    word-spacing: 5px; /* Adjust this value as needed */
+    line-height: 1.5; /* Increases space between lines */
 }
 
 body {
