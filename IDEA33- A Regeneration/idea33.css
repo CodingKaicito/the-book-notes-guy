@@ -1,17 +1,29 @@
 * { 
-    background-color: #f4f4f9;
-    color: #333333;
+    background-color: #ece1ca;
+    color: #645032;
     box-sizing: border-box;
     scroll-padding-top: 100px; /* Added here */
-    word-spacing: 5px; /* Adjust this value as needed */
-    line-height: 1.5; /* Increases space between lines */
+    font-family: 'Literata', serif; /* Use Literata font */
 }
 
-body {
-    padding-top: 60px; /* Adjust to match your navbar's height */
+main {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 1em;
+}
+
+
+h1 {
+    text-align: center;
+    padding-top: 2em;
+}
+
+/* Add spacing after all headers */
+h2, h3, h4, h5, h6 {
+  margin-top: 3em; /* Adjust as needed for spacing */
 }
 
 a:link {
-color: #333333;
-text-decoration: underline;
+    color: #0000EE;
+    text-decoration: underline;
 }
