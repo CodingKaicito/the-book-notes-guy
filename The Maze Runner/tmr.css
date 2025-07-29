@@ -4,11 +4,11 @@
     box-sizing: border-box;
     scroll-padding-top: 100px; /* Added here */
     font-family: 'Literata', serif; /* Use Literata font */
+    max-width: 1000px;
+    margin: 0 auto;
 }
 
 main {
-  margin: 0 auto;
-  max-width: 800px;
   padding: 1em;
 }
 
@@ -26,5 +26,10 @@ h2, h3, h4, h5, h6 {
 a:link {
     color: #0000EE;
     text-decoration: underline;
+}
+
+footer {
+  text-align: center;
+  margin-top: 15em;
 }
 
